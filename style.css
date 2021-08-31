@@ -1,0 +1,29 @@
+h2{
+    font-size: 15px;
+}
+#welcome{
+    background: linear-gradient(#5fd2f5 0%, #38d970 100%);
+}
+#cube {
+    height: 200px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p {
+    text-align: left;
+}
+
+.list {
+    color: white;
+    position: relative;
+    float: left;
+    list-style: none;
+    padding: 5px
+}
